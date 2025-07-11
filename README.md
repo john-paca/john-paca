@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **john-paca/john-paca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
